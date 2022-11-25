@@ -1,0 +1,4 @@
+WorkerProcesses = 4
+WorkerConnections = 1024
+Daemon = 1
+ListenPorts = [30000, 30001]
